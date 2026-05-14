@@ -104,7 +104,7 @@ Amazino/
 | Habiba Nezar | Authentication |
 | Mahmoud Hussien | Home Page + UI Design |
 | Sara Samir | Cart → Checkout → Payment (All Flow)|
-| Team Member | Admin Pannel |
+| Hadeer Gamal | Admin Pannel |
 | Mohammed Ashraf | All Dashboards  |
 
 ---
